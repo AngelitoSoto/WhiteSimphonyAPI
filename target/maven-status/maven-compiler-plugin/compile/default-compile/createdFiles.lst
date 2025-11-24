@@ -1,0 +1,9 @@
+com\whitesimphony\whitesimphony_api\carrito\CarritoController.class
+com\whitesimphony\whitesimphony_api\producto\Producto.class
+com\whitesimphony\whitesimphony_api\WhitesimphonyApiApplication.class
+com\whitesimphony\whitesimphony_api\carrito\CarritoItem.class
+com\whitesimphony\whitesimphony_api\carrito\CarritoRepository.class
+com\whitesimphony\whitesimphony_api\producto\ProductoController.class
+com\whitesimphony\whitesimphony_api\producto\ProductoRepository.class
+com\whitesimphony\whitesimphony_api\config\CorsConfig.class
+com\whitesimphony\whitesimphony_api\config\CorsConfig$1.class
